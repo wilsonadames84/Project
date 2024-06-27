@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytic Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Excel</b>
+  - [Build a data analysis report using Sales data for a company. Analysis includes below reports to be developed using Excel Pivot Tables, Formulas, Functions.](https://docs.google.com/presentation/d/1Yj-kfHxbaZu_UQdRnKqUU83rxr3b1hWW_OgaTEkrGeY/present?slide=id.g2e5241d8c71_0_5)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
